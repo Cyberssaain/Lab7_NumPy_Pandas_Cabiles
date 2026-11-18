@@ -1,0 +1,14 @@
+{
+    "Student_Name": "Gerald Angelo Q. Cabiles",
+    "Student_ID": "TUPM-26-1094",
+    "Dataset": "SECOM Semiconductor Manufacturing",
+    "Total_Records": 1567,
+    "Pass_Records": 1463,
+    "Fail_Records": 104,
+    "Failure_Rate_Percentage": 6.64,
+    "Verification_Status": "Verified",
+    "Libraries_Used": [
+        "NumPy",
+        "Pandas"
+    ]
+}
